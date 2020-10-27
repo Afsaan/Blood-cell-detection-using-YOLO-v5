@@ -1,0 +1,6 @@
+train: /content/drive/My Drive/Colab Notebooks/YOLO/blood_detection/blood_cell_detection/data/images/train
+val: /content/drive/My Drive/Colab Notebooks/YOLO/blood_detection/blood_cell_detection/data/images/valid
+
+nc : 3
+
+names : ['Platelets','RBC','WBC']
