@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Blood</title>
+    </head>
+    <body>
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type='file' name='file'>
+            <input type = submit>
+
+        </form>
+    </body>
+</html>
