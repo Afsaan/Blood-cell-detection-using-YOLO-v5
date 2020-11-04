@@ -1,0 +1,12 @@
+.tdStyle{
+    background-image:url(images/bg.jpg);
+    background-repeat:no-repeat;
+    background-size:100%;
+    }
+
+.oStyle{
+    background-image:url(images/bg.jpg);
+    background-repeat:no-repeat;
+    background-size:100%;
+    filter: blur(8px);
+    }
