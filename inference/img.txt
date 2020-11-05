@@ -1,5 +1,0 @@
-Namespace(agnostic_nms=False, augment=False, classes=None, conf_thres=0.25, device='', img_size=640, iou_thres=0.45, save_conf=False, save_dir='inference/output', save_txt=False, source='static/blood_image/BloodImage_00410.jpg', update=False, view_img=False, weights=['model_files/last.pt'])
-Fusing layers... 
-image 1/1 /home/afsan/github/blood_cell_detection/inference/static/blood_image/BloodImage_00410.jpg: 480x640 4 Plateletss, 20 RBCs, 1 WBCs, Done. (0.227s)
-Results saved to inference/output
-Done. (0.252s)
